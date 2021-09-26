@@ -11,4 +11,9 @@ for t in text.readlines():
     print(t)
 text.close()
 
+a = int(input("Please type a number:"))
+sum = 0
+for i in range (a):
+    sum += i+1
+print(sum)
 print(lk.random_number(5))
