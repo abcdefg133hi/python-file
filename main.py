@@ -17,3 +17,4 @@ for i in range (a):
     sum += i+1
 print(sum)
 print(lk.random_number(5))
+print(Hello)
